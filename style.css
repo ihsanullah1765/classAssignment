@@ -1,0 +1,41 @@
+table, tr, th, td{
+    border: 1px solid black;
+    margin: 10px;
+
+}
+
+tr, th, td{
+    padding: 10px;
+    border-radius: 20px;
+}
+
+td{
+    margin-top: 50px;
+}
+
+.employee-form{
+    margin-left: 40%;
+}
+
+.email{
+    margin-left: 28px;
+}
+
+.form-heading{
+    margin: 0 30%;
+    font-weight: bold;
+    font-style: italic;
+    border-bottom: 2px solid #ddd;
+    margin-bottom: 20px;
+    font-size: 22px;
+    padding-bottom: 3px;
+}
+
+.employee-form{
+    display: block;
+    margin: 0 0 0 32%;
+}
+
+.employee-form label{
+    font-weight: bold;
+}
